@@ -32,6 +32,7 @@ After getting the relevant information in the form of data-set, There will be ap
 and accuracy of the information, there are various techniques used to find out the accurate prediction of the result. after listing the comparison of the 
 output from different models and techniques. A 'pickle' file is created whcih will be imported later on to used with different application scenario like 
 client/server or service call to API.
+
 ![dsSlryProj1](https://user-images.githubusercontent.com/54668143/112748517-cd643780-9007-11eb-8333-7acc7705d422.png)
 ![dsSlryProj3](https://user-images.githubusercontent.com/54668143/112748529-df45da80-9007-11eb-95b7-952888339511.png)
 ![dsSlryProj2](https://user-images.githubusercontent.com/54668143/112748533-e5d45200-9007-11eb-8f8e-18dea20e2742.png)
