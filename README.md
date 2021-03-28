@@ -1,5 +1,5 @@
 # ds_salary_proj
-original author: Ömer Sakarya , Oct 15, 2019
+<h>original author:<h> <p> Ömer Sakarya , Oct 15, 2019<p>
 git : https://github.com/arapfaik/scraping-glassdoor-selenium
 original tutorial: https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
 tutorial followed(youtube: KenJee): https://www.youtube.com/watch?v=GmW4F6MHqqs&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
