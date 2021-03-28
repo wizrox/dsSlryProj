@@ -1,0 +1,26 @@
+1614254168608	geckodriver	INFO	Listening on 127.0.0.1:39205
+1614254168649	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLLxof0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614254204717	Marionette	INFO	Listening on port 35209
+1614254206238	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.glassdoor.com/jobs-ux-app/static/js/gd-city-guide.js?v=70e4951ds, line 1: TypeError: $(...).truncateThis is not a function
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614254829903	geckodriver	INFO	Listening on 127.0.0.1:33295
+1614254830779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZtylCm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1614254884543	Marionette	INFO	Listening on port 37517
+1614254884906	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.glassdoor.com/jobs-ux-app/static/js/gd-city-guide.js?v=70e4951ds, line 1: TypeError: $(...).truncateThis is not a function
+1614254908869	Marionette	INFO	Stopped listening on port 35209
+1614255128155	geckodriver	INFO	Listening on 127.0.0.1:39605
+1614255129118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHN2HwG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614255162116	Marionette	INFO	Listening on port 43067
+1614255162265	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.glassdoor.com/jobs-ux-app/static/js/gd-city-guide.js?v=70e4951ds, line 1: TypeError: $(...).truncateThis is not a function
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614256437399	Marionette	INFO	Stopped listening on port 43067
+1614256448865	Marionette	INFO	Stopped listening on port 37517
