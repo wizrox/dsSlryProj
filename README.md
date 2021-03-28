@@ -18,9 +18,12 @@ Built a client facing API using flask.
 - Flask Productionization: https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
 - Web Scraping
 
-### Data Collection
+### Data-Scraping / Data-Collection
 This is the first step where the script is written to pull-out the information available on web-page(**information stored by web-elements and fields:
 -span,div, li, etc.**)of the website. After pulling out the information it is stored in file for further processing.
+
+#### P.S: the code has been modified according to the updated structure of the website for webscraping, there are fields/data that I couldn't able to find, for reading purposes the old lines of code is commented and updated code added underneath for better understanding.please take a note that I have changed the names of the column and files according to my need, if you are copy pasting this code you have to look for syntax errors in names of files and data-columns that are used in tutorial.
+- glassdoor_scrapper.py (this is the modified version for re-structured website)
 
 ### Data Cleaning
 
