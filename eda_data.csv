@@ -1,0 +1,60 @@
+avg_salary,Rating,Size,Type of ownership,Industry,Sector,Revenue,hourly,employer_provided_salary,job_state,age,python_yn,R_yn,spark,aws,excel,job_simp,seniority,desc_len
+139.5,4.3,1001 to 5000 Employees,Company - Private,Consumer Products Manufacturing,Manufacturing,$500 million to $1 billion (USD),0,0,CA,41,0,0,0,0,0,data scientist,na,1394
+109.0,3.8,1001 to 5000 Employees,Company - Private,Chemical Manufacturing,Manufacturing,$500 million to $1 billion (USD),0,0,TN,75,0,0,0,0,0,data scientist,na,2114
+90.0,3.6,1001 to 5000 Employees,Self-employed,Energy,"Oil, Gas, Energy & Utilities",$2 to $5 billion (USD),0,0,TX,78,0,0,0,0,0,mle,na,558
+85.0,4.3,5001 to 10000 Employees,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),0,0,VA,52,0,0,0,0,0,data scientist,na,947
+102.0,4.6,201 to 500 Employees,Company - Private,Consulting,Business Services,$50 to $100 million (USD),0,0,OH,28,0,0,0,0,1,na,na,2342
+97.5,5.0,51 to 200 Employees,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10 to $25 million (USD),0,0,MI,8,0,0,0,0,1,data scientist,na,1684
+145.0,4.3,1001 to 5000 Employees,Company - Public,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),0,0,CA,15,0,0,0,0,0,data scientist,na,1224
+83.0,5.0,51 to 200 Employees,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,0,0,MD,10,1,0,0,0,0,data scientist,na,866
+46.0,4.0,201 to 500 Employees,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,0,0,IL,5,0,0,0,0,0,analyst,na,3133
+107.5,4.7,5001 to 10000 Employees,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),0,0,MD,78,0,0,0,0,0,na,na,2386
+122.0,3.6,1001 to 5000 Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),0,0,IL,123,0,0,0,0,0,data scientist,senior,538
+59.5,4.8,501 to 1000 Employees,Company - Private,Other Retail Stores,Retail,$50 to $100 million (USD),0,0,IN,72,0,0,0,0,0,analyst,na,759
+57.5,3.4,201 to 500 Employees,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),0,0,PA,23,0,0,0,0,0,analyst,na,1495
+95.5,3.6,501 to 1000 Employees,Company - Public,Financial Transaction Processing,Finance,$500 million to $1 billion (USD),0,0,TX,24,0,0,0,0,0,data scientist,na,2739
+125.0,-1.0,Unknown,Company - Public,-1,-1,Less than $1 million (USD),0,0,MA,-1,0,0,0,0,1,na,senior,1137
+131.0,3.6,1001 to 5000 Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),0,0,MA,23,0,0,0,0,0,data scientist,na,1243
+93.0,4.5,1001 to 5000 Employees,Company - Private,Construction,"Construction, Repair & Maintenance",$2 to $5 billion (USD),0,0,MO,156,0,0,0,0,0,data engineer,na,1049
+56.5,3.8,201 to 500 Employees,Company - Private,Banks & Credit Unions,Finance,$2 to $5 billion (USD),0,0,TX,84,0,0,0,0,0,analyst,na,377
+66.5,4.5,1001 to 5000 Employees,Nonprofit Organization,Banks & Credit Unions,Finance,$50 to $100 million (USD),0,0,ID,80,0,0,0,0,0,data engineer,na,808
+127.5,4.1,10000+ Employees,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,0,0,NJ,39,0,0,0,0,0,data scientist,na,2339
+66.5,4.5,1001 to 5000 Employees,Nonprofit Organization,Banks & Credit Unions,Finance,$50 to $100 million (USD),0,0,ID,80,0,0,0,0,0,data engineer,na,808
+56.5,3.8,201 to 500 Employees,Company - Private,Banks & Credit Unions,Finance,$2 to $5 billion (USD),0,0,TX,84,0,0,0,0,0,analyst,na,377
+127.5,4.1,10000+ Employees,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,0,0,NJ,39,0,0,0,0,0,data scientist,na,2339
+66.0,3.6,501 to 1000 Employees,Nonprofit Organization,Insurance Carriers,Insurance,Unknown / Non-Applicable,0,0,RI,81,0,0,0,0,0,analyst,na,576
+135.5,3.5,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),0,0,MD,21,0,0,1,0,0,data engineer,na,462
+61.5,3.4,51 to 200 Employees,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,0,0,MA,15,0,0,0,0,0,analyst,na,3325
+57.5,-1.0,-1,-1,-1,-1,-1,0,0,MN,-1,0,0,0,0,0,na,na,841
+121.0,3.7,501 to 1000 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,CO,5,0,0,0,0,0,na,na,2255
+98.0,3.3,10000+ Employees,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$5 to $10 billion (USD),0,0,NJ,48,0,0,0,0,0,data scientist,na,925
+118.5,-1.0,-1,-1,-1,-1,-1,0,0,WA,-1,0,0,0,0,0,na,na,1079
+45.0,4.6,1001 to 5000 Employees,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,Unknown / Non-Applicable,0,0,IN,15,0,0,0,0,0,analyst,na,684
+118.0,3.0,5001 to 10000 Employees,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD),0,0,CO,116,0,0,0,0,0,data scientist,na,1021
+72.5,-1.0,-1,-1,-1,-1,-1,0,0,IN,-1,0,0,0,0,0,na,na,1255
+65.0,3.0,1001 to 5000 Employees,Nonprofit Organization,Lending,Finance,$500 million to $1 billion (USD),0,0,PA,57,0,0,0,0,0,analyst,senior,534
+52.0,4.9,1001 to 5000 Employees,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),0,0,ND,24,0,0,0,0,0,analyst,na,965
+60.0,3.5,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),0,0,DE,50,0,0,0,0,0,na,na,615
+116.5,3.4,501 to 1000 Employees,Nonprofit Organization,Banks & Credit Unions,Finance,$100 to $500 million (USD),0,0,IL,85,0,0,0,0,0,data scientist,na,1637
+105.5,-1.0,-1,-1,-1,-1,-1,0,0,WA,-1,0,0,0,0,0,data engineer,na,1131
+86.5,3.7,1001 to 5000 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,0,0,NE,72,0,0,0,0,0,data engineer,na,789
+52.0,3.3,501 to 1000 Employees,Company - Private,Telecommunications Manufacturing,Telecommunications,$500 million to $1 billion (USD),0,0,TN,13,0,0,0,0,0,analyst,na,1067
+70.0,3.5,1001 to 5000 Employees,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable,0,0,MD,120,0,0,0,0,0,analyst,na,1035
+146.0,5.0,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,TX,3,0,0,0,0,0,manager,na,757
+89.0,3.8,201 to 500 Employees,Nonprofit Organization,Health Fundraising Organizations,Non-Profit,$100 to $500 million (USD),0,0,VA,97,0,0,0,0,0,data scientist,na,1946
+67.5,3.5,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),0,0,DE,50,0,0,0,0,0,na,na,1278
+86.0,-1.0,-1,-1,-1,-1,-1,0,0,MD,-1,0,0,0,0,0,na,na,1327
+130.0,4.7,5001 to 10000 Employees,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),0,0,MD,78,0,0,0,0,0,data scientist,na,2272
+37.5,3.3,1001 to 5000 Employees,Unknown,Gambling,"Arts, Entertainment & Recreation",Unknown / Non-Applicable,0,0,NY,-1,0,0,0,0,0,analyst,na,819
+69.5,3.5,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),0,0,NC,13,0,0,0,0,1,na,na,986
+111.5,4.1,501 to 1000 Employees,Nonprofit Organization,Insurance Carriers,Insurance,$2 to $5 billion (USD),0,0,CA,43,0,0,0,0,0,data scientist,na,678
+60.0,3.6,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,0,0,DC,2,0,0,0,0,0,data scientist,na,620
+73.5,2.8,501 to 1000 Employees,Company - Private,Health Care Services & Hospitals,Health Care,$5 to $10 million (USD),0,0,IA,13,0,0,0,0,0,manager,na,530
+53.0,3.7,51 to 200 Employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Less than $1 million (USD),0,0,KS,41,0,0,0,0,0,na,na,969
+80.5,3.5,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),0,0,DE,50,0,0,0,0,0,na,na,740
+102.0,3.6,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),0,0,NM,112,0,0,0,0,0,data scientist,senior,979
+128.0,4.0,5001 to 10000 Employees,Company - Public,Financial Analytics & Research,Finance,$1 to $2 billion (USD),0,0,IL,52,0,0,0,0,0,na,senior,654
+85.5,3.8,1001 to 5000 Employees,Self-employed,Architectural & Engineering Services,Business Services,$1 to $2 billion (USD),0,0,TX,158,0,0,0,1,0,data engineer,na,2364
+85.5,3.8,1001 to 5000 Employees,Self-employed,Architectural & Engineering Services,Business Services,$1 to $2 billion (USD),0,0,TX,158,0,0,0,1,0,data engineer,na,2364
+129.0,4.9,201 to 500 Employees,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),0,0,MN,31,0,0,0,0,0,data engineer,na,631
+91.5,4.1,201 to 500 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),0,0,MO,29,0,0,0,0,0,data engineer,na,1014
