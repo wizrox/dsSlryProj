@@ -113,12 +113,12 @@ def get_jobs(keyword, num_jobs, verbose,path,slp_time):
                         job_description = driver.find_element_by_xpath('.//div[@class="jobDescriptionContent desc"]').text
                         
                         # job_function is an additional information not included in previous code
-                        job_function = driver.find_element_by_xpath('//*[@id="JDCol"]//strong[text()[1]="Job Function"]//following-sibling::*').text
+                        job_function = driver.find_element_by_xpath('//*[@id="JDCol"]//strong[text()[1]="Job Function :"]//following-sibling::*').text
                         
                         collected_successfully = True
                     except:
-                        # print("&&& line 67")
-                        # collected_successfully=True
+                        # print("&&& error at line 120")
+                        collected_successfully=False
                         time.sleep(5)
     
                 try:
