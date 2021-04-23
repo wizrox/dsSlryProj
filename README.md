@@ -1,3 +1,4 @@
+
 ## Data Science Salary Estimator: Project Overview
 
 Created a tool that estimates data science salaries to help data scientists negotiate their income when they get a job.
@@ -12,14 +13,19 @@ Built a client facing API using flask.
 - Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
 - For Web Framework Requirements: pip install -r requirements.txt
 - Special Thanks to **KenJee** Github: https://github.com/PlayingNumbers
+- Tutorial(youtube) : https://www.youtube.com/watch?v=GmW4F6MHqqs&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
 - & Thanks to **Ömer Sakarya**Scraper Github: https://github.com/arapfaik/scraping-glassdoor-selenium
 - Scraper Article: https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
 - Flask Productionization: https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
 - Web Scraping
 
-### Data Collection
+### Data-Scraping / Data-Collection
 This is the first step where the script is written to pull-out the information available on web-page(**information stored by web-elements and fields:
 -span,div, li, etc.**)of the website. After pulling out the information it is stored in file for further processing.
+
+#### P.S: the code has been modified according to the updated structure of the website for webscraping, there are fields/data that I couldn't able to find, for reading purposes the old lines of code is commented and updated code added underneath for better understanding.please take a note that I have changed the names of the column and files according to my need, if you are copy pasting this code you have to look for syntax errors in names of files and data-columns that are used in tutorial.
+- glassdoor_scrapper.py (this is the modified version for re-structured website) click the link below:
+- https://github.com/wizrox/dsSlryProj/blob/master/glassdoor_scrapper.py
 
 ### Data Cleaning
 
@@ -32,6 +38,9 @@ and accuracy of the information, there are various techniques used to find out t
 output from different models and techniques. A 'pickle' file is created whcih will be imported later on to used with different application scenario like 
 client/server or service call to API.
 
+![dsSlryProj1](https://user-images.githubusercontent.com/54668143/112748517-cd643780-9007-11eb-8333-7acc7705d422.png)
+![dsSlryProj3](https://user-images.githubusercontent.com/54668143/112748529-df45da80-9007-11eb-95b7-952888339511.png)
+![dsSlryProj2](https://user-images.githubusercontent.com/54668143/112748533-e5d45200-9007-11eb-8f8e-18dea20e2742.png)
 
 ### Productionization
 After making a pickle file, to implement it in a client/server scenario, Flask API is downloaded and used to stimulate as a local server for listening
